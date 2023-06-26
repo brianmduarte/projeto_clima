@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Clima - Informações Meteorológicas</title>
+</head>
+<body>
+    <div class="glass-area">
+        <h1> Informações Meteorológicas 
+            <img src="images/png-clipart-cloud-weather-computer-icons-sky-cloud-cloud-meteorology-removebg-preview.png" alt="">
+        </h1>
+
+        <form action="" class="busca">
+            <input type="search" id="searchInput" placeholder="Indique a localidade desejada"/>
+            <button> Buscar </button>
+        </form>
+
+        <div class="resultado">
+            <div class="titulo"> -- </div>
+
+            <div class="info">
+                <div class="temp">
+                    <div class="tempTitulo"> Temperatura</div>
+                    <div class="tempInfo">-- <sup>ºC</sup></div>
+                    <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="">
+                </div>
+                <div class="vento">
+                    <div class="ventoTitulo"> Vento </div>
+                    <div class="ventoInfo">-- <span>km/h</span></div>
+                    <div class="ventoArea">
+                        <div class="ventoPonto" style="transform: rotate(0deg)"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="aviso"></div>
+    </div>
+        
+
+    <footer> Desenvolvido por Brian Duarte 
+        <br>
+        <br>
+        <p>&copy; Todos os direitos reservados.</p> 
+    </footer>
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
