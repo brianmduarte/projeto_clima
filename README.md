@@ -1,12 +1,12 @@
-<h2>Sejam bem vindo ao projeto Clima!</h2>
+<h2>Sejam bem vindos ao projeto Clima!🌥️ </h2>
 
-<img src="images\clima.PNG" width="250px"> <br>
+<img src="images\clima.PNG" width="350px"> <br>
 
-Nesta oportunidade pude desenvolver um sistema de clima que busca informações meteorológicas de qualquer localidade do mundo a partir de requisições na plataforma da OpenWeather.
+Nesta oportunidade pude desenvolver um sistema de clima que busca informações meteorológicas de qualquer localidade do mundo a partir de requisições na plataforma da OpenWeather. Acredito que este projeto foi um passo importante para compreender melhor sobre as API's e como essa ferramenta pode nos auxiliar durante o desenvolvimento de sistemas.
 
 <hr>
 
-As stacks utilizadas foram:<br>
+👨‍💻 As stacks utilizadas foram:<br>
 <ul> 
 <li>HTML</li>
 <li>CSS</li>
@@ -15,4 +15,4 @@ As stacks utilizadas foram:<br>
 
 <hr>
 
-Link do Deploy: 
+🔗 Link do Deploy: 
