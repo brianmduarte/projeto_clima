@@ -1,7 +1,8 @@
 <h2>Sejam bem vindos ao projeto Clima!🌥️ </h2>
 
-<img src="images\clima.PNG" width="350px"> <br>
-
+<div align="center">
+<img src="images\clima.PNG" width="500px" margin-left="150px" > <br>
+</div>
 Nesta oportunidade pude desenvolver um sistema de clima que busca informações meteorológicas de qualquer localidade do mundo a partir de requisições na plataforma da OpenWeather. Acredito que este projeto foi um passo importante para compreender melhor sobre as API's e como essa ferramenta pode nos auxiliar durante o desenvolvimento de sistemas.
 
 <hr>
@@ -15,4 +16,4 @@ Nesta oportunidade pude desenvolver um sistema de clima que busca informações 
 
 <hr>
 
-🔗 Link do Deploy: 
+🔗 Link do Deploy: <a href="" target="_blank">Clima</a>
